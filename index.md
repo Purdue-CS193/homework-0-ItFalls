@@ -1,4 +1,6 @@
-# HELLO
+# Ethan Ling's First CS193 Homework
+- Very chill class
+- TA's are cool and not boring :)
 
 ## Welcome to GitHub Pages
 
